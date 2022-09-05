@@ -1,5 +1,6 @@
-# Name: Your Name
-# Date: Todays Date
+# Name: Kyle Price
+# Date: 09/05/2022
+# SDEV 220
 # Description: The program decides weather the student has made Dean's list
 # Or Honor Roll.
 # Asking the user to enter student last name
